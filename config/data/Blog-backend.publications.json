@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "68251072e28304f5e58ae0d9"
+  },
+  "title": "Mi primera publicación",
+  "text": "En este taller, los estudiantes aprenderán los fundamentos de la soldadura eléctrica y MIG. Se cubrirán técnicas de seguridad, tipos de soldadura, preparación de materiales y práctica en la aplicación de soldaduras simples. El objetivo es que al finalizar el taller, los participantes sean capaces de realizar soldaduras básicas con precisión y seguridad.",
+  "user": "Ludwin Omar",
+  "category": {
+    "$oid": "68250fd6e28304f5e58ae0d0"
+  },
+  "comments": [
+    {
+      "$oid": "6825120de28304f5e58ae105"
+    },
+    {
+      "$oid": "682515ebe28304f5e58ae133"
+    },
+    {
+      "$oid": "68251fece28304f5e58ae163"
+    },
+    {
+      "$oid": "682664763ab2d02e65a657f4"
+    },
+    {
+      "$oid": "6826657d3ab2d02e65a65839"
+    },
+    {
+      "$oid": "682665ae3ab2d02e65a6584a"
+    },
+    {
+      "$oid": "682668253ab2d02e65a65878"
+    },
+    {
+      "$oid": "6826682b3ab2d02e65a65881"
+    },
+    {
+      "$oid": "682668343ab2d02e65a6588a"
+    },
+    {
+      "$oid": "682669cf3ab2d02e65a658b2"
+    },
+    {
+      "$oid": "682669e23ab2d02e65a658bb"
+    },
+    {
+      "$oid": "682669e53ab2d02e65a658c4"
+    },
+    {
+      "$oid": "682669ee3ab2d02e65a658cd"
+    },
+    {
+      "$oid": "682669f13ab2d02e65a658d6"
+    },
+    {
+      "$oid": "682669f33ab2d02e65a658df"
+    },
+    {
+      "$oid": "68266a3f3ab2d02e65a658fb"
+    },
+    {
+      "$oid": "68266a473ab2d02e65a65904"
+    },
+    {
+      "$oid": "68266a4b3ab2d02e65a6590d"
+    },
+    {
+      "$oid": "682691763f9ff0cfd6cd4d8b"
+    },
+    {
+      "$oid": "682691ab3f9ff0cfd6cd4d96"
+    },
+    {
+      "$oid": "68279ef7f0d9f81c56b5a235"
+    },
+    {
+      "$oid": "68279f02f0d9f81c56b5a23e"
+    },
+    {
+      "$oid": "68279f1af0d9f81c56b5a24e"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-14T21:51:46.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T20:24:58.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6825108ce28304f5e58ae0dc"
+  },
+  "title": "Mi segunda publicación.",
+  "text": "Esta publicación aborda los conceptos esenciales de redes de computadoras, incluyendo topologías, protocolos, y dispositivos de interconexión. Se enfatiza el aprendizaje sobre configuraciones de redes LAN y WAN, y el uso de herramientas para diagnóstico y solución de problemas en infraestructuras tecnológicas.",
+  "user": "Ludwin Omar",
+  "category": {
+    "$oid": "68250fd6e28304f5e58ae0d3"
+  },
+  "comments": [
+    {
+      "$oid": "6825117ee28304f5e58ae0fc"
+    },
+    {
+      "$oid": "68264b333c327d5f976716cd"
+    },
+    {
+      "$oid": "68264b353c327d5f976716d6"
+    },
+    {
+      "$oid": "68264b363c327d5f976716df"
+    },
+    {
+      "$oid": "68279f3bf0d9f81c56b5a267"
+    },
+    {
+      "$oid": "68279f4cf0d9f81c56b5a270"
+    },
+    {
+      "$oid": "68279f5ef0d9f81c56b5a279"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-14T21:52:12.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T20:26:06.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6825109ae28304f5e58ae0df"
+  },
+  "title": "Mi tercera publicación.",
+  "text": "Durante la práctica supervisada, los estudiantes diseñarán y ejecutarán la instalación eléctrica completa de una vivienda modelo. Este proyecto integra conocimientos de circuitos, seguridad eléctrica, normativas vigentes y uso de materiales. Los alumnos trabajarán bajo la supervisión directa de un instructor para garantizar el correcto desarrollo de cada etapa.",
+  "user": "Ludwin Omar",
+  "category": {
+    "$oid": "68250fd6e28304f5e58ae0d6"
+  },
+  "comments": [
+    {
+      "$oid": "6825116de28304f5e58ae0f4"
+    },
+    {
+      "$oid": "68251805e28304f5e58ae154"
+    },
+    {
+      "$oid": "68264b3d3c327d5f976716e8"
+    },
+    {
+      "$oid": "68264b3f3c327d5f976716f1"
+    },
+    {
+      "$oid": "68266b8e3ab2d02e65a65942"
+    },
+    {
+      "$oid": "68266b9b3ab2d02e65a6594b"
+    },
+    {
+      "$oid": "68266ba13ab2d02e65a65954"
+    },
+    {
+      "$oid": "68279f7af0d9f81c56b5a2a2"
+    },
+    {
+      "$oid": "68279f82f0d9f81c56b5a2ab"
+    },
+    {
+      "$oid": "68279f93f0d9f81c56b5a2b4"
+    }
+  ],
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-14T21:52:26.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-16T20:26:59.030Z"
+  }
+}]
