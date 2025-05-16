@@ -1,0 +1,114 @@
+{
+	"info": {
+		"_postman_id": "8ecb21ba-5e2d-4e7c-867f-95ef142695a9",
+		"name": "Blog",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42619524"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3001/blog/v1/publication",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Mi tercera publicación.\",\r\n  \"text\": \"Contenido de la publicación.\",\r\n  \"user\": \"Ludwin Omar\",\r\n  \"categoryName\": \"PracticaSupervisada\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/blog/v1/publication",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"blog",
+						"v1",
+						"publication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ver comentarios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/blog/v1/comment",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"blog",
+						"v1",
+						"comment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar texto de publicacion",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"comment\": \"Texto actualizado del comentario\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/blog/v1/comment/6825120de28304f5e58ae105",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"blog",
+						"v1",
+						"comment",
+						"6825120de28304f5e58ae105"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mostrar publicacion por categoria",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/blog/v1/publication/PracticaSupervisada",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"blog",
+						"v1",
+						"publication",
+						"PracticaSupervisada"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

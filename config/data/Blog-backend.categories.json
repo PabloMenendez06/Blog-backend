@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "68250fd6e28304f5e58ae0cc"
+  },
+  "name": "default",
+  "createdAt": {
+    "$date": "2025-05-14T21:49:10.574Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T21:49:10.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68250fd6e28304f5e58ae0d0"
+  },
+  "name": "Taller",
+  "createdAt": {
+    "$date": "2025-05-14T21:49:10.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T21:49:10.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68250fd6e28304f5e58ae0d3"
+  },
+  "name": "Tecnologia",
+  "createdAt": {
+    "$date": "2025-05-14T21:49:10.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T21:49:10.623Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68250fd6e28304f5e58ae0d6"
+  },
+  "name": "PracticaSupervisada",
+  "createdAt": {
+    "$date": "2025-05-14T21:49:10.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T21:49:10.627Z"
+  }
+}]
